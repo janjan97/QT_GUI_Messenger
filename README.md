@@ -21,3 +21,4 @@
 ---
 ![연결 및 연결실패](https://user-images.githubusercontent.com/66328790/196455395-c449d51f-614c-4577-998c-0bb4a488a7bf.PNG)
 
+![채팅](https://user-images.githubusercontent.com/66328790/196455824-434479a5-b2e3-4a85-a161-2fbd4a907c79.png)
