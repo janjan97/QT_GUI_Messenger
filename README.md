@@ -1,7 +1,7 @@
 ## QT GUI Messenger Program (MoJi Chat)
- Language : C / C ++
- Tools : QT Creator
- OS : Ubuntu
+ + Language : C / C ++
+ + Tools : QT Creator
+ + OS : Ubuntu
 ### 설계 및 구현
 - 채팅과 파일전송이 가능한 GUI 메신저 프로그램을 구현
 
