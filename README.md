@@ -19,6 +19,7 @@
 4번의 요구사항인 파일 전송 기능은 구현하지 못 하였다.
 
 ---
+기능
 
 ![연결 및 연결실패](https://user-images.githubusercontent.com/66328790/196455395-c449d51f-614c-4577-998c-0bb4a488a7bf.PNG)
 
