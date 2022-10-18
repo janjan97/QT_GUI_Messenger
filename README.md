@@ -1,4 +1,4 @@
-## QT GUI 메신저 프로그램 (MoJi Chat)
+## QT GUI 메신저 프로그램 [ MoJi Chat ]
  + Language : C / C ++
  + Tools : QT Creator
  + OS : Ubuntu
