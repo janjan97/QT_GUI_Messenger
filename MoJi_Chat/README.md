@@ -1,1 +1,3 @@
-## Using QT Creator
+## Using QT Creator 
+
+VMware Ubuntu
