@@ -26,3 +26,14 @@
 ### 사용자와 채팅
 
 ![채팅](https://user-images.githubusercontent.com/66328790/196455824-434479a5-b2e3-4a85-a161-2fbd4a907c79.png)
+
+---
+<p align="center"><img src="https://user-images.githubusercontent.com/66328790/197030500-f5c45bda-7761-4fc8-804a-3a63d6d33773.png"></p>
+
+##### <p align="center"> MainWindow.h
+
+전송과 등록 버튼의 콜백 함수와 통신에 필요한 `QTcpSocket`클래스를 정의한다.
+
+<p align="center"><img src="https://user-images.githubusercontent.com/66328790/197028858-bc404c80-3fe3-43b8-805c-f83a5d294ebd.png"></p>
+
+등록을 확인하는 플래그 `is_registered`변수를 `false`로 정의하고 `connect_server`함수에서 소켓과 시그널 그리고 시그널을 받을 경우 콜백 함수를 정의한다.
